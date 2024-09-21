@@ -1,7 +1,7 @@
 <script>
     import InputData from '../../component/input_data/InputData.svelte';
 
-    let classModelNames = ['Class 1', 'Class 2', 'Class 3'];
+    let classModelNames = ['Class 1'];
 </script>
 
 <div class="container">
